@@ -1,4 +1,4 @@
-# neural-network
+# NeuralJS
 Simple Neural Network for NodeJS inspired by Brain.js using gradient descent and momentum
 
 ## Installation
