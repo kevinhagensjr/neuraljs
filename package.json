@@ -1,0 +1,30 @@
+{
+  "name": "neuraljs",
+  "version": "1.0.0",
+  "description": "Simple Neural Network inspired by brainjs using gradient descent and momentum ",
+  "main": "neuraljs.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinhagensjr/neuraljsgit"
+  },
+  "keywords": [
+    "neural",
+    "network",
+    "nodejs",
+    "multilayer",
+    "perceptron"
+  ],
+  "author": "Kevin Hagens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinhagensjr/neualjs/issues"
+  },
+  "homepage": "https://github.com/kevinhagensjr/neuraljs#readme"
+}
